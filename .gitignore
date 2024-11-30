@@ -25,3 +25,6 @@ replay_pid*
 
 # some random file created on MacBook
 .DS_Store
+
+# ignore everything from 'bin' sub-dir
+bin/
