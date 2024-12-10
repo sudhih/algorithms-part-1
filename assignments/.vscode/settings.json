@@ -6,6 +6,7 @@
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
-        "lib/**/*.jar"
+        "lib/**/*.jar",
+        "lib/algs4.jar"
     ]
 }
